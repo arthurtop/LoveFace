@@ -790,7 +790,6 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/LoveFace/FrameWork/SMS_SDK",
 				);
-				GCC_PREFIX_HEADER = /Users/jecansoft/Desktop/LoveFace/LoveFace/PrefixHeader.pch;
 				INFOPLIST_FILE = LoveFace/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -808,7 +807,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/LoveFace/FrameWork/SMS_SDK",
 				);
-				GCC_PREFIX_HEADER = /Users/jecansoft/Desktop/LoveFace/LoveFace/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = /Users/jecansoft/Desktop/LoveFace/LoveFace/LoveFace/PrefixHeader.pch;
 				INFOPLIST_FILE = LoveFace/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
